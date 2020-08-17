@@ -18,6 +18,10 @@ If user doesn't allow location sharing: Error States: User denied geolocation.
 
 The weather icons I used are in the filed named 'icons'. 
 
+style.css contains the stylesheet with the colors, fonts, padding, & margins. 
+
+javaScript file is name app.js that's the main page that takes care of the user interaction. 
+
 
 
 

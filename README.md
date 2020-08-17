@@ -1,5 +1,7 @@
 # Assignment5
 
+I created an application that uses an API to get the weather depending on the location of the user. 
+
 For this project I used the OpenWeatherMap API (https://openweathermap.org/). 
 This site made it easy to get an API key. 
 
